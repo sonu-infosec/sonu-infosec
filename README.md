@@ -21,13 +21,19 @@ Email Me 👉 ✉️ chhatasonuchaudharygmail.com For Collaboration/Project or A
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username= sonu-infosec&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user= sonu-infosec&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username= sonu-infosec&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sonu-infosec&show_icons=true&theme=dark)
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=sonu-infosec&theme=dark)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username= sonu-infosec&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sonu-infosec&theme=darkhub&no-frame=true&margin-w=4)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
