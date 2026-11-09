@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Sonu Chaudhary
-**A passionate Cyber Security Engineer||DevOps Engineer||Information Security**
+**A Aspiring Cyber Security Engineer||DevOps Engineer||Information Security**
 
 Email Me 👉 ✉️ chhatasonuchaudharygmail.com For Collaboration/Project or Anything Else. 😊😊
 
